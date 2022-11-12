@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0bGyxXpjcw9HhAxB3/lggczwJJJdWpVUuVKL2Fnswol+kjNS1+EAaA2K+ZBEwzN9Ue/sfOo2oJq5zSJ+zlm8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\Desktop\\Csharp\\refactor\\refactor\\refactor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

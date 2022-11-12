@@ -1,0 +1,16 @@
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\refactor.exe
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\refactor.deps.json
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\refactor.runtimeconfig.json
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\refactor.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\refactor.dll
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\ref\refactor.dll
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\bin\Debug\net5.0\refactor.pdb
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.dll
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\ref\refactor.dll
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.pdb
+C:\Users\Алексей\Desktop\Csharp\refactor\refactor\obj\Debug\net5.0\refactor.genruntimeconfig.cache
